@@ -1,2 +1,2 @@
-def counter(thing):
+def counter(   thing):
     return thing + 1
